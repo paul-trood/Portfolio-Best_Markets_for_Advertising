@@ -11,8 +11,8 @@ FreeCodeCamp Survey:
 *https://www.freecodecamp.org/news/we-asked-20-000-people-who-they-are-and-how-theyre-learning-to-code-fff5d668969*
 
 Github repository:
-Survey Year 2017: *https://github.com/freeCodeCamp/2017-new-coder-survey/tree/master/clean-data* 
 
+Survey Year 2017: *https://github.com/freeCodeCamp/2017-new-coder-survey/tree/master/clean-data* 
 Survey Year 2016: *https://github.com/freeCodeCamp/2016-new-coder-survey#about-the-data* 
 
 Stack Overflow Survey:
