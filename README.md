@@ -13,10 +13,18 @@ FreeCodeCamp Survey:
 Github repository:
 
 Survey Year 2017: *https://github.com/freeCodeCamp/2017-new-coder-survey/tree/master/clean-data* 
+
 Survey Year 2016: *https://github.com/freeCodeCamp/2016-new-coder-survey#about-the-data* 
+
+Included with the main dataset files is a JSON file that provides a description for all 100+ columns: `datapackage.json`
 
 Stack Overflow Survey:
 *https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2018-developer-survey*
+
+Two files may be found in the stack overflow kaggle page above:
+dataset: `survey_results_public.csv`
+dataset schema: `survey_results_schema.csv`
+
 
 Some limitations for analyzing survey data:
 - For some questions, participants had the freedom to write in their own responses; this makes it difficult to identify every single response due to spelling, grammar, punctuation, and word usage, however we have done our best to clean some of these columns; for example, there are many different variations of “front end web developer”, or “full stack web developer” due to inconsistent respondent input.
@@ -30,3 +38,5 @@ Method
 * Concatenate/merge datasets
 * Correct any remaining inconsistencies/errors
 * Perform analysis and visualization
+
+
