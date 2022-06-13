@@ -1,6 +1,10 @@
 # Portfolio Project #1
 ## Best markets for advertising an e-learning platform
 
+Analysis performed using **Python** programming language
+
+Visualization accomplished using **Matplotlib and Seaborn**
+
 For a fictional e-learning platform specializing in programming I conducted an analysis featuring two concepts. The first concept includes new programmer career expectations, and which two countries are the most appropriate for advertising.
 
 FreeCodeCamp (online e-learning platform) surveyed new programmers in 2016 and 2017 They asked many questions related to career interest, income expectations, age, gender, home country, time spent programming, and so on. Stack Overflow (online forum for programming) conducted a survey in 2018. This survey was aimed primarily at individuals already in the developer community. Some topics include favorite technologies, job preference, career aspirations, salary, and several other categories.
